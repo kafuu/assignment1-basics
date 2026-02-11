@@ -161,3 +161,10 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+# 忽略数据集
+data/
+dataset/
+*.json
+*.txt
+!requirements.txt
