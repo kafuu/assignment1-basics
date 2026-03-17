@@ -168,3 +168,5 @@ dataset/
 *.json
 *.txt
 !requirements.txt
+
+wandb/
